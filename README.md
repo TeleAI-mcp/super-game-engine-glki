@@ -1,2 +1,3 @@
-# super-game-engine-glki
-A repository to test GitHub automation for issue management
+# Super Game Engine Glki
+
+A repository to test GitHub automation for issue management.
